@@ -6,8 +6,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ShopApplication {
 
+<<<<<<< HEAD
 	public static void main(String[] args) {
 		SpringApplication.run(ShopApplication.class, args);
 	}
 
 }
+=======
+    public static void main(String[] args) {
+        SpringApplication.run(ShopApplication.class, args);
+    }
+
+}
+>>>>>>> origin/master
