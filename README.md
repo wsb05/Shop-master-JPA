@@ -4,5 +4,4 @@
 
 >로그인 회원가입
 
->코드 메인화면
-<a href="https://github.com/wsb05/Shop-master-JPA/tree/master/shop-master/src/main/java/com/shop"></a>
+1. <a href="https://github.com/wsb05/Shop-master-JPA/tree/master/shop-master/src/main/java/com/shop"> 코드 홈 </a>
